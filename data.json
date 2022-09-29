@@ -23,5 +23,13 @@
 		"publishing-year":"2006",
 		"shopping-link":"https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
 		"download-link":"https://pdflake.com/the-practicing-mind-pdf-book/"
-	}
+	},
+	{
+	        "id":4,
+	        "number-pages":40,
+	        "author":"shreyas",
+	        "publishing-year":"2020",
+	        "shopping-link":"https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680906",
+	        "download-link":"https://pdflake.com/the-practice-mind-pdf-book/"
+ 	}
 ]
