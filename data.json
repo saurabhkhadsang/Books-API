@@ -24,4 +24,13 @@
 		"shopping-link":"https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
 		"download-link":"https://pdflake.com/the-practicing-mind-pdf-book/"
 	}
+
+        {
+               "id":4,
+               "number-pages":90,
+               "author":"me",
+               "publishing-year":"2022"
+               "shopping-link":"https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908"
+               "download-link":"https://pdflake.com/the-practicing-mind-pdf-book/"
+        }
 ]
