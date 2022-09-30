@@ -367,5 +367,15 @@
 		"publisher": "Wordsworth Editions Ltd; New Edition",
 		"shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
 		"download-link": "https://www.planetebook.com/ulysses/"
-	}
+	},
+	{
+    "id": 60,
+    "number-pages": 965,
+    "name": "Great Leaders: Inspirational Lessons in Leadership",
+    "author": "john adair",
+    "publishing-year": "2020",
+    "publisher": "Thorogood Publishing",
+    "shopping-link": "https://www.amazon.co.uk/Leadership-Six-Studies-World-Strategy",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  }
 ]
