@@ -91,5 +91,14 @@
 		"publishing-year": "2004",
 		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy.",
 		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+	},
+	{
+		"id": 8,
+		"number-pages": 180,
+		"author": "A P J Abdul Kalam, Arun Tiwari",
+		"publishing-year": "1999",
+		"publisher": "Universities Press",
+		"shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+		"download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
 	}
 ]
