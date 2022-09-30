@@ -470,5 +470,15 @@
         "publishing-year": "1872",
         "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
         "download-link": "https://www.gutenberg.org/ebooks/103"
+    },
+    {
+        "id": 50,
+        "name": "Diary of a Wimpy Kid",
+        "number-pages": 512,
+        "author": "Jeff Kinney",
+        "publishing-year": "2001",
+        "publisher": "Basic Books; Reprint edition ",
+        "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
+        "download-link": "https://wimpykid.com/"
     }
 ]
