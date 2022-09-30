@@ -181,6 +181,16 @@
 
 	},
 	{
+		"id": 16,
+		"number-pages": 200,
+		"name": "Who moved my cheeses",
+		"author": "Where is my Cheese",
+		"publishing-year": "2004",
+		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+	},
+	{
+	   "id":12,
 		"id": 13,
 		"number-pages": 327,
 		"name": "I am malala",
@@ -210,6 +220,15 @@
     "publisher": "BhaktiVedanta bok trust",
     "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
     "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+	},
+{
+	"id":15,
+    "number-pages": 245,
+    "name":"War and Peace",
+    "author": "Leo Tolstoy",
+    "publishing-year": "1865",
+    "publisher": "The Russian Messenger",
+    "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+    "download-link": "https://www.planetebook.com/war-and-peace/"
   }
-
 ]
