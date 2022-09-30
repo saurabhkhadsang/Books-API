@@ -1,98 +1,98 @@
 [
-	{
-		"id": 1,
-		"number-pages": 265,
-		"name": "Isle of Dead Ships",
-		"author": "Crittenden Marriott",
-		"publishing-year": "1925",
-		"publisher": "Lippincott Company, 1909",
-		"shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
-		"download-link": "https://www.gutenberg.org/ebooks/69065"
-	},
-	{
-		"id": 2,
-		"name": "Deep Work",
-		"number-pages": 290,
-		"author": "Carl Newport",
-		"publishing-year": "2016",
-		"shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
-		"download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
-	},
-	{
-		"id": 3,
-		"name": "Practicing Mind",
-		"number-pages": 98,
-		"author": "Tom Sterner",
-		"publishing-year": "2006",
-		"shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
-		"download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-	},
-	{
-		"id": 4,
-		"name": "Practicing Mind",
-		"number-pages": 90,
-		"author": "me",
-		"publishing-year": "2022",
-		"shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
-		"download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-	},
-	{
-		"id": 5,
-		"number-pages": 200,
-		"name": "Who moved my cheeses",
-		"author": "Where is my Cheese",
-		"publishing-year": "2004",
-		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
-		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-	},
-	{
-		"id": 6,
-		"number-pages": 99,
-		"name": "Isel of Dead Ships",
-		"author": "mr agent",
-		"publishing-year": "2003",
-		"publisher": "Lippincott Company, 1909",
-		"shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
-		"download-link": "https://www.gutenberg.org/ebooks/69065"
-	},
-	{
-		"id": 7,
-		"name": "Who moved my cheeses",
-		"number-pages": 200,
-		"author": "Where is my Cheese",
-		"publishing-year": "2004",
-		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy.",
-		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-	},
-	{
-		"id": 8,
-		"number-pages": 180,
-		"author": "A P J Abdul Kalam, Arun Tiwari",
-		"publishing-year": "1999",
-		"publisher": "Universities Press",
-		"shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
-		"download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
-	},
-	{
-		"name": "Practicing ",
-		"number-pages": 199,
-		"author": "Tom Sterner",
-		"publishing-year": "2000",
-		"shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge",
-		"download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-	},
-	{
-		"name": "Alchemist ",
-		"number-pages": 163,
-		"author": "Paulo Coelho",
-		"publishing-year": "1988",
-		"shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
-		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
-	},
-	{
+  {
+    "id": 1,
+    "number-pages": 265,
+    "name": "Isle of Dead Ships",
+    "author": "Crittenden Marriott",
+    "publishing-year": "1925",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+  {
+    "id": 2,
+    "name": "Deep Work",
+    "number-pages": 290,
+    "author": "Carl Newport",
+    "publishing-year": "2016",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
+  },
+  {
+    "id": 3,
+    "name": "Practicing Mind",
+    "number-pages": 98,
+    "author": "Tom Sterner",
+    "publishing-year": "2006",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "id": 4,
+    "name": "Practicing Mind",
+    "number-pages": 90,
+    "author": "me",
+    "publishing-year": "2022",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "id": 5,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 6,
+    "number-pages": 99,
+    "name": "Isel of Dead Ships",
+    "author": "mr agent",
+    "publishing-year": "2003",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+  {
+    "id": 7,
+    "name": "Who moved my cheeses",
+    "number-pages": 200,
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy.",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 8,
+    "number-pages": 180,
+    "author": "A P J Abdul Kalam, Arun Tiwari",
+    "publishing-year": "1999",
+    "publisher": "Universities Press",
+    "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+    "download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
+  },
+  {
+    "name": "Practicing ",
+    "number-pages": 199,
+    "author": "Tom Sterner",
+    "publishing-year": "2000",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "name": "Alchemist ",
+    "number-pages": 163,
+    "author": "Paulo Coelho",
+    "publishing-year": "1988",
+    "shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
+    "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
+  },
+  {
     "id": 6,
     "number-pages": 265,
-    "name":"Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
+    "name": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
     "author": "Henry Cloud",
     "publishing-year": "2001",
     "publisher": "John Townsend",
@@ -102,28 +102,27 @@
   {
     "id": 7,
     "number-pages": 258,
-    "name":"Living in the Light: A guide to personal transformation",
-    "author": "	Shakti Gawain, Laurel King",
+    "name": "Living in the Light: A guide to personal transformation",
+    "author": "Shakti Gawain, Laurel King",
     "publishing-year": "2011",
     "publisher": "Nataraj Pub., 1992",
     "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/1442950277",
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
-},
-{
+  },
+  {
     "id": 45896,
     "number-pages": 2789,
-    "name":"Living in the Light: A guide to transformation",
+    "name": "Living in the Light: A guide to transformation",
     "author": "Gawain, Laurel King",
     "publishing-year": "2001",
     "publisher": "Nataraj hub., 1992",
     "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
   },
-  
   {
     "id": 8,
     "number-pages": 671,
-    "name":"Crime and Punishment",
+    "name": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "publishing-year": "1866",
     "publisher": "Penguin Classics",
@@ -131,55 +130,55 @@
     "download-link": "https://www.planetebook.com/crime-and-punishment/"
   },
   {
-	"id": 9,
-	"number-pages": 265,
-	"name": "Theory of Relativity",
-	"author": "Albert Einstein",
-	"publishing-year": "1944",
-	"publisher": "Lippin Company, 1909",
-	"shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
-	"download-link": "https://www.gutenberg.org/ebooks/6906500"
+    "id": 9,
+    "number-pages": 265,
+    "name": "Theory of Relativity",
+    "author": "Albert Einstein",
+    "publishing-year": "1944",
+    "publisher": "Lippin Company, 1909",
+    "shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/6906500"
   },
   {
-    "id":10,
+    "id": 10,
     "number-pages": 240,
-    "name":"2 states",
-    "author": "	chetan bhagat",
+    "name": "2 states",
+    "author": "chetan bhagat",
     "publishing-year": "2009",
     "publisher": "Rupa Pub.",
     "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
     "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
   },
   {
-    "id":10,
+    "id": 10,
     "number-pages": 224,
-    "name":"The Subtle Art of Not Giving a Fuck",
+    "name": "The Subtle Art of Not Giving a Fuck",
     "author": "Mark Manson",
     "publishing-year": "2016",
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.in/Subtle-Art-Not-Giving/dp/0062641549",
     "download-link": "https://kupdf.net/download/the-subtle-art-of-not-giving-a-fuck_5aa1883fe2b6f5eb1b65a859_pdf"
   },
-{
-	"id":11,
+  {
+    "id": 11,
     "number-pages": 245,
-    "name":"4 states",
-    "author": "	chetan kashid",
+    "name": "4 states",
+    "author": "chetan kashid",
     "publishing-year": "2010",
     "publisher": "pika publi.",
     "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
     "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
-   
   },
-	{
-	   "id":12,
+  {
+    "id": 13,
     "number-pages": 224,
-    "name":"The Monk Who Sold His Ferrari",
+    "name": "The Monk Who Sold His Ferrari",
     "author": "Robin Sharma",
     "publishing-year": "1999",
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
     "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
+
 	},
 	{
 		"id": 13,
@@ -191,4 +190,26 @@
 		"shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
 		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
 	},
+
+  },
+  {
+    "id": 16,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 12,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  }
+
 ]
