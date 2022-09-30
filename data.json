@@ -350,12 +350,22 @@
     "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
   },
   {
-    "id": 16,
+    "id": 37,
     "name": "Wings of Fire",
     "number-pages": 180,
     "author": "	A P J Abdul Kalam",
     "publishing-year": "1999",
     "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
     "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
-  }
+  },
+  {
+		"id": 38,
+		"number-pages": 736,
+		"name": "Ulysses",
+		"author": "James Joyce",
+		"publishing-year": "2010",
+		"publisher": "Wordsworth Editions Ltd; New Edition",
+		"shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+		"download-link": "https://www.planetebook.com/ulysses/"
+	}
 ]
