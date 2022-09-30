@@ -368,4 +368,13 @@
 		"shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
 		"download-link": "https://www.planetebook.com/ulysses/"
 	}
+	{
+    "id": 34,
+    "name": "Practicing Mind",
+    "number-pages": 98,
+    "author": "Tom Sterner",
+    "publishing-year": "2006",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
 ]
