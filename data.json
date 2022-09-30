@@ -178,6 +178,19 @@
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
     "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
+
+	},
+	{
+		"id": 13,
+		"number-pages": 327,
+		"name": "I am malala",
+		"author": "Malala Yousafzai",
+		"publishing-year": "2013",
+		"publisher": "Weidenfeld & Nicolson (UK) Little, Brown and Company (US)",
+		"shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
+		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
+	},
+
   },
   {
     "id": 16,
@@ -198,4 +211,5 @@
     "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
     "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
   }
+
 ]
