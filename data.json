@@ -222,21 +222,8 @@
 		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
 	},
 
-
-  },
-  {
-    "id": 24,
-    "number-pages": 200,
-    "name": "Who moved my cheeses",
-    "author": "Where is my Cheese",
-    "publishing-year": "2004",
-    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
-    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-  }
-
-
 	{
-		"id": 25,
+		"id": 24,
 		"number-pages": 575,
 		"name": "Bhagwat Geeta",
 		"author": "prabhipada",
@@ -246,7 +233,7 @@
 		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	},
 	{
-		"id": 26,
+		"id": 25,
 		"number-pages": 646,
 		"name": "It Ends With Us",
 		"author": "Colleen Hoover",
@@ -256,7 +243,7 @@
 		"download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
 	},
 	{
-		"id": 27,
+		"id": 26,
 		"number-pages": 265,
 		"name": "Alchemist",
 		"author": "Panlo coelho",
@@ -266,7 +253,7 @@
 		"download-link": "https://www.gutenberg.org/ebooks/69065"
 	},
 	{
-		"id": 28,
+		"id": 27,
 		"number-pages": 245,
 		"name": "War and Peace",
 		"author": "Leo Tolstoy",
@@ -276,7 +263,7 @@
 		"download-link": "https://www.planetebook.com/war-and-peace/"
 	},
 	{
-		"id": 29,
+		"id": 28,
 		"number-pages": 575,
 		"name": "Bhagwat Geeta",
 		"author": "prabhipada",
@@ -286,13 +273,23 @@
 		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	},
 	{
-		"id": 30,
+		"id": 29,
 		"number-pages": 384,
 		"name": "The love hypothesis",
 		"author": "Ali Hazelwood",
 		"publishing-year": "2021",
 		"shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
 		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+	},
+    {
+		"id": 30,
+		"number-pages": 228,
+		"name": "The Monk Who Sold His Ferrari",
+		"author": "Robin Sharma",
+		"publishing-year": "1996",
+		"publisher": "Harper Collins Publishers",
+		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
 	},
 	{
 		"id": 31,
@@ -323,7 +320,7 @@
 		"publisher": "penguin",
 		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
 		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
-	},,
+	},
   {
     "id": 34,
     "number-pages": 575,
@@ -345,4 +342,3 @@
     "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
   }
 ]
-
