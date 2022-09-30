@@ -353,7 +353,7 @@
         "id": 37,
         "name": "Wings of Fire",
         "number-pages": 180,
-        "author": "	A P J Abdul Kalam",
+        "author": "A P J Abdul Kalam",
         "publishing-year": "1999",
         "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
         "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
@@ -392,7 +392,7 @@
         "id": 41,
         "name": "The Great Gatsby",
         "number-pages": 200,
-        "author": "	F. Scott Fitzgerald",
+        "author": "F. Scott Fitzgerald",
         "publishing-year": "1925",
         "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
         "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
@@ -403,9 +403,7 @@
         "name": "The Private Life of an Indian Prince ",
         "author": "Mulk Raj Anand",
         "publishing-year": "1953",
-        "publisher": "HarperCollins Publishers India
-मराठी मध्ये
-In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
+        "publisher": "HarperCollins Publishers India",
         "download-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X"
     },
     {
@@ -418,41 +416,59 @@ In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
     },
     {
-		"id": 44,
-		"number-pages": 24,
-		"name": "TRAIN TO PAKISTAN BY KHUSHWANT SINGH",
-		"author": "Khushwant Singh ",
-		"publishing-year": "1956",
-		"publisher": "Chatto & Windus",
-		"shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
-		"download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
+        "id": 44,
+        "number-pages": 24,
+        "name": "TRAIN TO PAKISTAN BY KHUSHWANT SINGH",
+        "author": "Khushwant Singh ",
+        "publishing-year": "1956",
+        "publisher": "Chatto & Windus",
+        "shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
+        "download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
     },
     {
-		"id": 45,
-		"number-pages": 368,
-		"author": "Jo Marchant",
-		"publishinM-year": "2020",
-		"publisher": "Canongate ",
-		"shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
-		"download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
-	    
-	},
-	{
-	"id": 46,
-		"number-pages": 320,
-		"author": "James clear",
-		"publishinM-year": "2018",
-		"publisher": "PenguinRandomHouse ",
-		"shopping-link": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=asc_df_1847941834/?tag=googleshopdes-21&linkCode=df0&hvadid=396987849297&hvpos=&hvnetw=g&hvrand=9469622242698612474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-551566274852&psc=1&ext_vrnc=hi",
-		"download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
-	},
-	{
+        "id": 45,
+        "number-pages": 368,
+        "author": "Jo Marchant",
+        "publishinM-year": "2020",
+        "publisher": "Canongate ",
+        "shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
+        "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+    },
+    {
+        "id": 46,
+        "name": "You can Win",
+        "number-pages": 300,
+        "author": "Shiv Khera",
+        "publishing-year": "2004",
+        "shopping-link": "https://www.flipkart.com/you-can-win/p/itmfc5dutwsbvahs#:~:text=You%20Can%20Win%3A%20A%20Step,by%20motivational%20speaker%20Shiv%20Khera.&text=Success%20is%20a%20hard%20commodity,needs%20careful%20planning%2C%20and%20deliberation.",
+        "download-link": "https://shivkhera.com/Downloads/YCW%20-%20English%20Text.pdfF"
+    },
+    {
         "id": 47,
+        "number-pages": 320,
+        "author": "James clear",
+        "publishinM-year": "2018",
+        "publisher": "PenguinRandomHouse ",
+        "shopping-link": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=asc_df_1847941834/?tag=googleshopdes-21&linkCode=df0&hvadid=396987849297&hvpos=&hvnetw=g&hvrand=9469622242698612474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-551566274852&psc=1&ext_vrnc=hi",
+        "download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
+    },
+    {
+        "id": 48,
+        "name": "Curious: The Desire to Know and Why Your Future Depends on It",
+        "number-pages": 178,
+        "author": "IAN LESLIE",
+        "publishing-year": "",
+        "publisher": "Basic Books; Reprint edition ",
+        "shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
+        "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+    },
+    {
+        "id": 49,
         "name": "Around the World in Eighty Days",
         "number-pages": 130,
         "author": "Jules Verne",
         "publishing-year": "1872",
         "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
         "download-link": "https://www.gutenberg.org/ebooks/103"
-    },
+    }
 ]
