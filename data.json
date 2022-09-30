@@ -172,7 +172,7 @@
    
   },
 	{
-	   "id":12,
+	   "id":13,
     "number-pages": 224,
     "name":"The Monk Who Sold His Ferrari",
     "author": "Robin Sharma",
@@ -180,5 +180,14 @@
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
     "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
+	}
+	   "id":12,
+    "number-pages": 575,
+    "name":"Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	}
 ]
