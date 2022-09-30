@@ -110,7 +110,17 @@
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
 },
 {
-    "id": 8,
+	"id": 8,
+	"number-pages": 265,
+	"name": "Theory of Relativity",
+	"author": "Albert Einstein",
+	"publishing-year": "1944",
+	"publisher": "Lippin Company, 1909",
+	"shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+	"download-link": "https://www.gutenberg.org/ebooks/6906500"
+},
+{
+    "id":9,
     "number-pages": 240,
     "name":"2 states",
     "author": "	chetan bhagat",
