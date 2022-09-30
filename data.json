@@ -461,5 +461,15 @@
         "publisher": "Basic Books; Reprint edition ",
         "shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
         "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+    },
+     {
+        "id": 54,
+        "name": "Diary of a Wimpy Kid",
+        "number-pages": 512,
+        "author": "Jeff Kinney",
+        "publishing-year": "2001",
+        "publisher": "Basic Books; Reprint edition ",
+        "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
+        "download-link": "https://wimpykid.com/"
     }
 ]
