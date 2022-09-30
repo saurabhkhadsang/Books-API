@@ -426,5 +426,14 @@ In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-
 		"publisher": "Chatto & Windus",
 		"shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
 		"download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
-    }
+    },
+    {
+		"id": 45,
+		"number-pages": 368,
+		"author": "Jo Marchant",
+		"publishinM-year": "2020",
+		"publisher": "Canongate ",
+		"shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
+		"download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+	}
 ]
