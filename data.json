@@ -221,15 +221,6 @@
 		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
 	},
 	{
-		"id": 24,
-		"number-pages": 200,
-		"name": "Who moved my cheeses",
-		"author": "Where is my Cheese",
-		"publishing-year": "2004",
-		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
-		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-	},
-	{
 		"id": 25,
 		"number-pages": 575,
 		"name": "Bhagwat Geeta",
@@ -241,6 +232,16 @@
 	},
 	{
 		"id": 26,
+		"number-pages": 646,
+		"name": "It Ends With Us",
+		"author": "Colleen Hoover",
+		"publishing-year": "2016",
+		"publisher": "Atria Books",
+		"shopping-link": "https://www.amazon.in/s?k=it+ends+with+us+novel&hvadid=73117601034628&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_6jzircqp9p_b",
+		"download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
+	},
+	{
+		"id": 27,
 		"number-pages": 265,
 		"name": "Alchemist",
 		"author": "Panlo coelho",
@@ -250,7 +251,7 @@
 		"download-link": "https://www.gutenberg.org/ebooks/69065"
 	},
 	{
-		"id": 27,
+		"id": 28,
 		"number-pages": 245,
 		"name": "War and Peace",
 		"author": "Leo Tolstoy",
@@ -260,7 +261,47 @@
 		"download-link": "https://www.planetebook.com/war-and-peace/"
 	},
 	{
-		"id": 28,
+		"id": 21,
+		"number-pages": 575,
+		"name": "Bhagwat Geeta",
+		"author": "prabhipada",
+		"publishing-year": "1968",
+		"publisher": "BhaktiVedanta bok trust",
+		"shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+	},
+	{
+		"id": 22,
+		"number-pages": 384,
+		"name": "The love hypothesis",
+		"author": "Ali Hazelwood",
+		"publishing-year": "2021",
+		"shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
+		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+	},
+	{
+		"id": 23,
+		"number-pages": 575,
+		"name": "Bhagwat Geeta",
+		"author": "prabhipada",
+		"publishing-year": "1968",
+		"publisher": "BhaktiVedanta bok trust",
+		"shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+	},
+	{
+		"id": 24,
+		"number-pages": 312,
+		"name": "Do epic shit",
+		"author": "Warikoo Ankur",
+		"publishing-year": "2021",
+		"publisher": "Juggernaut ",
+		"shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
+		"download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+
+	},
+  
+		"id": 30,
 		"number-pages": 228,
 		"name": "The Monk Who Sold His Ferrari",
 		"author": "Robin Sharma",
@@ -268,5 +309,4 @@
 		"publisher": "Harper Collins Publishers",
 		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
 		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
-	}
 ]
