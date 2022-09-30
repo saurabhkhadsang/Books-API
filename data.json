@@ -435,5 +435,14 @@ In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-
 		"publisher": "Canongate ",
 		"shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
 		"download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
-	}
+	},
+	 {
+        "id": 46,
+        "name": "You can Win",
+        "number-pages": 300,
+        "author": "Shiv Khera",
+        "publishing-year": "2004",
+        "shopping-link": "https://www.flipkart.com/you-can-win/p/itmfc5dutwsbvahs#:~:text=You%20Can%20Win%3A%20A%20Step,by%20motivational%20speaker%20Shiv%20Khera.&text=Success%20is%20a%20hard%20commodity,needs%20careful%20planning%2C%20and%20deliberation.",
+        "download-link": "https://shivkhera.com/Downloads/YCW%20-%20English%20Text.pdfF"
+    }
 ]
