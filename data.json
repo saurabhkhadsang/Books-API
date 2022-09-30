@@ -480,5 +480,15 @@
         "publisher": "Basic Books; Reprint edition ",
         "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
         "download-link": "https://wimpykid.com/"
+    },
+    {
+        "id": 51,
+        "name": "Midnight’s Children",
+        "number-pages": 458,
+        "author": "Salman Rushdie",
+        "publishing-year": "1981",
+        "publisher": "Jonathan Cape ",
+        "shopping-link": "https://www.amazon.in/Midnights-Children-Modern-Library-Novels/dp/0812976533",
+        "download-link": "http://www.e4thai.com/e4e/images/pdf2/Top100novels/MidnightsChildren.pdf"
     }
 ]
