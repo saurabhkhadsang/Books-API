@@ -417,40 +417,13 @@
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
     },
     {
-        "id": 44,
-        "number-pages": 24,
-        "name": "TRAIN TO PAKISTAN BY KHUSHWANT SINGH",
-        "author": "Khushwant Singh ",
-        "publishing-year": "1956",
-        "publisher": "Chatto & Windus",
-        "shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
-        "download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
-    },
-    {
-        "id": 45,
-        "number-pages": 368,
-        "author": "Jo Marchant",
-        "publishinM-year": "2020",
-        "publisher": "Canongate ",
-        "shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
-        "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
-    },
-    {
-        "id": 46,
-        "name": "You can Win",
-        "number-pages": 300,
-        "author": "Shiv Khera",
-        "publishing-year": "2004",
-        "shopping-link": "https://www.flipkart.com/you-can-win/p/itmfc5dutwsbvahs#:~:text=You%20Can%20Win%3A%20A%20Step,by%20motivational%20speaker%20Shiv%20Khera.&text=Success%20is%20a%20hard%20commodity,needs%20careful%20planning%2C%20and%20deliberation.",
-        "download-link": "https://shivkhera.com/Downloads/YCW%20-%20English%20Text.pdfF"
-    },
-    {
-        "id": 47,
-        "number-pages": 320,
-        "author": "James clear",
-        "publishinM-year": "2018",
-        "publisher": "PenguinRandomHouse ",
-        "shopping-link": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=asc_df_1847941834/?tag=googleshopdes-21&linkCode=df0&hvadid=396987849297&hvpos=&hvnetw=g&hvrand=9469622242698612474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-551566274852&psc=1&ext_vrnc=hi",
-        "download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
+		"id": 44,
+		"number-pages": 220,
+		"name": "Rich dad poor dad",
+		"author": "Robert Kiyosaki ",
+		"publishing-year": "1997",
+		"publisher": "Warner Books",
+		"shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
+		"download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
     }
 ]
