@@ -75,7 +75,7 @@
     },
     {
         "id": 9,
-        "name": "Practicing Mind",
+        "name": "Practicing ",
         "number-pages": 199,
         "author": "Tom Sterner",
         "publishing-year": "2000",
@@ -416,5 +416,15 @@ In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-
         "publishing-year": "2006",
         "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+    },
+    {
+		"id": 44,
+		"number-pages": 24,
+		"name": "TRAIN TO PAKISTAN BY KHUSHWANT SINGH",
+		"author": "Khushwant Singh ",
+		"publishing-year": "1956",
+		"publisher": "Chatto & Windus",
+		"shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
+		"download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
     }
 ]
