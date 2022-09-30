@@ -353,7 +353,7 @@
 		"id": 37,
 		"name": "Wings of Fire",
 		"number-pages": 180,
-		"author": "	A P J Abdul Kalam",
+		"author": "A P J Abdul Kalam",
 		"publishing-year": "1999",
 		"shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
 		"download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
@@ -392,7 +392,7 @@
 		"id": 41,
 		"name": "The Great Gatsby",
 		"number-pages": 200,
-		"author": "	F. Scott Fitzgerald",
+		"author": "F. Scott Fitzgerald",
 		"publishing-year": "1925",
 		"shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
 		"download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
@@ -463,82 +463,83 @@
 		"shopping-link": "https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_2?crid=15KC3MPGJPDWR&keywords=the+secret+book+english&qid=1664564305&qu=eyJxc2MiOiIzLjQzIiwicXNhIjoiMy41NiIsInFzcCI6IjMuMDUifQ%3D%3D&sprefix=the+secret+%2Caps%2C633&sr=8-2",
 		"download-link": "https://addictbooks.com/the-secret-book-pdf-free-download-rhonda-byrne/"
 	},
-	"id": 48,
-	"name": "Curious: The Desire to Know and Why Your Future Depends on It",
-	"number-pages": 178,
-	"author": "IAN LESLIE",
-	"publishing-year": "",
-	"publisher": "Basic Books; Reprint edition ",
-	"shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
-	"download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
-},
-{
-	"id": 49,
-	"name": "Around the World in Eighty Days",
-	"number-pages": 130,
-	"author": "Jules Verne",
-	"publishing-year": "1872",
-	"shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
-	"download-link": "https://www.gutenberg.org/ebooks/103"
-},
-{
-	"id": 50,
-	"name": "Diary of a Wimpy Kid",
-	"number-pages": 512,
-	"author": "Jeff Kinney",
-	"publishing-year": "2001",
-	"publisher": "Basic Books; Reprint edition ",
-	"shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
-	"download-link": "https://wimpykid.com/"
-},
-{
-	"id": 51,
-	"name": "Ikigai: The Japanese Secret to a Long and Happy Life",
-	"number-pages": 208,
-	"author": "Héctor García, Francesc Miralles",
-	"publishing-year": "2017",
-	"publisher": "Penguin Life",
-	"shopping-link": "https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722",
-	"download-link": "https://www.sarkarirush.com/ikigai-pdf/"
-},
-{
-	"id": 52,
-	"name": "The Alchemist",
-	"number-pages": 154,
-	"author": "Paulo Coehlo",
-	"publishing-year": "1988",
-	"publisher": "HarperTorch",
-	"shopping-link": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988",
-	"download-link": "https://www.goodreads.com/book/show/18144590-the-alchemist"
-},
-{
-	"id": 53,
-	"name": "Midnight’s Children",
-	"number-pages": 458,
-	"author": "Salman Rushdie",
-	"publishing-year": "1981",
-	"publisher": "Jonathan Cape ",
-	"shopping-link": "https://www.amazon.in/Midnights-Children-Modern-Library-Novels/dp/0812976533",
-	"download-link": "http://www.e4thai.com/e4e/images/pdf2/Top100novels/MidnightsChildren.pdf"
-},
-{
-	"id": 54,
-	"number-pages": 291,
-	"name": "How to win friends and Influence people",
-	"author": "Dale Carnegie",
-	"publishing-year": "1936",
-	"publisher": "Simon and Schuster",
-	"shopping-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO4MLamr36AhVkk2YCHeGxCCkYABAFGgJzbQ&ohost=www.google.com&cid=CAESbeD23Go9ciQc7T1LV-R18d5HbWGxM-uBLyW14CG1a1bqrA0AEYsu3EW5yP8QWsqdhjuzwcZtmyrDC36Onr6QTlmyMh0B-zflNOK4K8pPJXRHbMAdGHzssvjC-lSB3DdHpesmh8t7p8ohk2lvFAg&sig=AOD64_1F9q_IuCZyzd_AxRaMOdVtM-xdng&q&adurl&ved=2ahUKEwiIn7namr36AhX0ArcAHcq1BHgQ0Qx6BAgFEAE",
-	"download-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi0h4zrmr36AhVYk2YCHa0QAvoYABABGgJzbQ&ohost=www.google.com&cid=CAESbeD2Ll6imHi6aI3YdtFHlDBctYUGvvuh2WoaxiBUGVDDMgdrp3kVjWbY2aWpWy2bVJ4hTXUXDRzrVuLKDNXKKLMr3D6O2YC2htQzM10-subBKh9aBg-rnsAwKrZ5BJExPPcz7FvD4DoJp9CBU64&sig=AOD64_0pA48c0H7YDZP6f_9hGLNko-mMIg&q&adurl&ved=2ahUKEwi2hYPrmr36AhWCS3wKHRrxAtoQ0Qx6BAgEEAE"
-},
-{
-		"id": 55,
-		"number-pages": 245,
-		"name": "4 states",
-		"author": "chetan kashid",
-		"publishing-year": "2010",
-		"publisher": "pika publi.",
-		"shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
-		"download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+	{
+		"id": 48,
+		"name": "Curious: The Desire to Know and Why Your Future Depends on It",
+		"number-pages": 178,
+		"author": "IAN LESLIE",
+		"publishing-year": "",
+		"publisher": "Basic Books; Reprint edition ",
+		"shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
+		"download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
 	},
+	{
+		"id": 49,
+		"name": "Around the World in Eighty Days",
+		"number-pages": 130,
+		"author": "Jules Verne",
+		"publishing-year": "1872",
+		"shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
+		"download-link": "https://www.gutenberg.org/ebooks/103"
+	},
+	{
+		"id": 50,
+		"name": "Diary of a Wimpy Kid",
+		"number-pages": 512,
+		"author": "Jeff Kinney",
+		"publishing-year": "2001",
+		"publisher": "Basic Books; Reprint edition ",
+		"shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
+		"download-link": "https://wimpykid.com/"
+	},
+	{
+		"id": 51,
+		"name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+		"number-pages": 208,
+		"author": "Héctor García, Francesc Miralles",
+		"publishing-year": "2017",
+		"publisher": "Penguin Life",
+		"shopping-link": "https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722",
+		"download-link": "https://www.sarkarirush.com/ikigai-pdf/"
+	},
+	{
+		"id": 52,
+		"name": "The Alchemist",
+		"number-pages": 154,
+		"author": "Paulo Coehlo",
+		"publishing-year": "1988",
+		"publisher": "HarperTorch",
+		"shopping-link": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988",
+		"download-link": "https://www.goodreads.com/book/show/18144590-the-alchemist"
+	},
+	{
+		"id": 53,
+		"name": "Midnight’s Children",
+		"number-pages": 458,
+		"author": "Salman Rushdie",
+		"publishing-year": "1981",
+		"publisher": "Jonathan Cape ",
+		"shopping-link": "https://www.amazon.in/Midnights-Children-Modern-Library-Novels/dp/0812976533",
+		"download-link": "http://www.e4thai.com/e4e/images/pdf2/Top100novels/MidnightsChildren.pdf"
+	},
+	{
+		"id": 54,
+		"number-pages": 291,
+		"name": "How to win friends and Influence people",
+		"author": "Dale Carnegie",
+		"publishing-year": "1936",
+		"publisher": "Simon and Schuster",
+		"shopping-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO4MLamr36AhVkk2YCHeGxCCkYABAFGgJzbQ&ohost=www.google.com&cid=CAESbeD23Go9ciQc7T1LV-R18d5HbWGxM-uBLyW14CG1a1bqrA0AEYsu3EW5yP8QWsqdhjuzwcZtmyrDC36Onr6QTlmyMh0B-zflNOK4K8pPJXRHbMAdGHzssvjC-lSB3DdHpesmh8t7p8ohk2lvFAg&sig=AOD64_1F9q_IuCZyzd_AxRaMOdVtM-xdng&q&adurl&ved=2ahUKEwiIn7namr36AhX0ArcAHcq1BHgQ0Qx6BAgFEAE",
+		"download-link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi0h4zrmr36AhVYk2YCHa0QAvoYABABGgJzbQ&ohost=www.google.com&cid=CAESbeD2Ll6imHi6aI3YdtFHlDBctYUGvvuh2WoaxiBUGVDDMgdrp3kVjWbY2aWpWy2bVJ4hTXUXDRzrVuLKDNXKKLMr3D6O2YC2htQzM10-subBKh9aBg-rnsAwKrZ5BJExPPcz7FvD4DoJp9CBU64&sig=AOD64_0pA48c0H7YDZP6f_9hGLNko-mMIg&q&adurl&ved=2ahUKEwi2hYPrmr36AhWCS3wKHRrxAtoQ0Qx6BAgEEAE"
+	},
+	{
+		"id": 55,
+		"name": "The Lord of the Rings",
+		"number-pages": 480,
+		"author": "John Ronald Reuel Tolkien",
+		"publishing-year": "1988 ",
+		"publisher": "Ballantine Books ",
+		"shopping-link": "https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282",
+		"download-link": "https://books.google.co.in/books/about/The_lord_of_the_rings.html?id=7iS1CCpHrJgC&redir_esc=y"
+	}
 ]
