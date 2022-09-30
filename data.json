@@ -541,5 +541,15 @@
 		"publisher": "Ballantine Books ",
 		"shopping-link": "https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282",
 		"download-link": "https://books.google.co.in/books/about/The_lord_of_the_rings.html?id=7iS1CCpHrJgC&redir_esc=y"
+	},
+	{
+		"id": 56,
+		"name": "Ignited Minds",
+		"number-pages": 121,
+		"author": "A. P. J. Abdul Kalam",
+		"publishing-year": "2002 ",
+		"publisher": "Penguin Books Ltd.",
+		"shopping-link": "https://www.amazon.in/Ignited-Minds-Unleashing-power-within/dp/0143424122",
+		"download-link": "https://www.google.co.in/books/edition/Ignited_Minds/9KM3lT94M1MC?hl=en&gbpv=1&printsec=frontcover"
 	}
 ]
