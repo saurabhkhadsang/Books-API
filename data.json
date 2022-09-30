@@ -1,4 +1,5 @@
 [
+
 	{
 		"id": 1,
 		"number-pages": 265,
@@ -220,6 +221,7 @@
 		"shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
 		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
 	},
+
 	{
 		"id": 24,
 		"number-pages": 575,
@@ -262,13 +264,13 @@
 	},
 	{
 		"id": 28,
-		"number-pages": 228,
-		"name": "The Monk Who Sold His Ferrari",
-		"author": "Robin Sharma",
-		"publishing-year": "1996",
-		"publisher": "Harper Collins Publishers",
-		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
-		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
+		"number-pages": 575,
+		"name": "Bhagwat Geeta",
+		"author": "prabhipada",
+		"publishing-year": "1968",
+		"publisher": "BhaktiVedanta bok trust",
+		"shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	},
 	{
 		"id": 29,
@@ -279,8 +281,28 @@
 		"shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
 		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
 	},
-	{
+    {
 		"id": 30,
+		"number-pages": 228,
+		"name": "The Monk Who Sold His Ferrari",
+		"author": "Robin Sharma",
+		"publishing-year": "1996",
+		"publisher": "Harper Collins Publishers",
+		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
+	},
+	{
+		"id": 31,
+		"number-pages": 575,
+		"name": "Bhagwat Geeta",
+		"author": "prabhipada",
+		"publishing-year": "1968",
+		"publisher": "BhaktiVedanta bok trust",
+		"shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+	},
+	{
+		"id": 32,
 		"number-pages": 312,
 		"name": "Do epic shit",
 		"author": "Warikoo Ankur",
@@ -290,7 +312,7 @@
 		"download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
 	},
 	{
-		"id": 31,
+		"id": 33,
 		"number-pages": 300,
 		"name": "Wilder Girls",
 		"author": "Rory Power",
@@ -298,5 +320,25 @@
 		"publisher": "penguin",
 		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
 		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
-	}
+	},
+  {
+    "id": 34,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 35,
+    "number-pages": 1055,
+    "name": "ramayan",
+    "author": "Valmiki",
+    "publishing-year": "1992",
+    "publisher": "geeta press",
+    "shopping-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1",
+    "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
+  }
 ]
