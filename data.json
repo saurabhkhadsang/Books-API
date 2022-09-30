@@ -180,5 +180,14 @@
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
     "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
+	},
+	{
+		"id": 16,
+		"number-pages": 200,
+		"name": "Who moved my cheeses",
+		"author": "Where is my Cheese",
+		"publishing-year": "2004",
+		"shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+		"download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
 	}
 ]
