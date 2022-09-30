@@ -110,23 +110,13 @@
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
 },
 {
-	"id": 8,
-	"number-pages": 265,
-	"name": "Theory of Relativity",
-	"author": "Albert Einstein",
-	"publishing-year": "1944",
-	"publisher": "Lippin Company, 1909",
-	"shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
-	"download-link": "https://www.gutenberg.org/ebooks/6906500"
+    "id": 45896,
+    "number-pages": 2789,
+    "name":"Living in the Light: A guide to transformation",
+    "author": "Gawain, Laurel King",
+    "publishing-year": "2001",
+    "publisher": "Nataraj hub., 1992",
+    "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
+    "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
 },
-{
-    "id":9,
-    "number-pages": 240,
-    "name":"2 states",
-    "author": "	chetan bhagat",
-    "publishing-year": "2009",
-    "publisher": "Rupa Pub.",
-    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
-    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
-}
 ]
