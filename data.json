@@ -405,7 +405,16 @@
         "publishing-year": "1953",
         "publisher": "HarperCollins Publishers India
 मराठी मध्ये
-In English","shopping-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
+In English","shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
         "download-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X"
+    },
+    {
+        "id": 43,
+        "name": "Practicing Mind",
+        "number-pages": 98,
+        "author": "Tom Sterner",
+        "publishing-year": "2006",
+        "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+        "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
     }
 ]
