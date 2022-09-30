@@ -462,8 +462,17 @@
         "shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
         "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
     },
-     {
-        "id": 54,
+    {
+        "id": 49,
+        "name": "Around the World in Eighty Days",
+        "number-pages": 130,
+        "author": "Jules Verne",
+        "publishing-year": "1872",
+        "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
+        "download-link": "https://www.gutenberg.org/ebooks/103"
+    },
+    {
+        "id": 50,
         "name": "Diary of a Wimpy Kid",
         "number-pages": 512,
         "author": "Jeff Kinney",
