@@ -74,6 +74,7 @@
     "download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
   },
   {
+    "id": 9,
     "name": "Practicing ",
     "number-pages": 199,
     "author": "Tom Sterner",
@@ -82,6 +83,7 @@
     "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
   },
   {
+    "id": 10,
     "name": "Alchemist ",
     "number-pages": 163,
     "author": "Paulo Coelho",
@@ -90,7 +92,7 @@
     "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
   },
   {
-    "id": 6,
+    "id": 11,
     "number-pages": 265,
     "name": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
     "author": "Henry Cloud",
@@ -100,7 +102,7 @@
     "download-link": "https://www.pdfdrive.com/boundaries-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-e60363043.html"
   },
   {
-    "id": 7,
+    "id": 12,
     "number-pages": 258,
     "name": "Living in the Light: A guide to personal transformation",
     "author": "Shakti Gawain, Laurel King",
@@ -110,7 +112,7 @@
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
   },
   {
-    "id": 45896,
+    "id": 13,
     "number-pages": 2789,
     "name": "Living in the Light: A guide to transformation",
     "author": "Gawain, Laurel King",
@@ -120,7 +122,7 @@
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
   },
   {
-    "id": 8,
+    "id": 14,
     "number-pages": 671,
     "name": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
@@ -130,7 +132,7 @@
     "download-link": "https://www.planetebook.com/crime-and-punishment/"
   },
   {
-    "id": 9,
+    "id": 15,
     "number-pages": 265,
     "name": "Theory of Relativity",
     "author": "Albert Einstein",
@@ -140,7 +142,7 @@
     "download-link": "https://www.gutenberg.org/ebooks/6906500"
   },
   {
-    "id": 10,
+    "id": 16,
     "number-pages": 240,
     "name": "2 states",
     "author": "chetan bhagat",
@@ -150,7 +152,7 @@
     "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
   },
   {
-    "id": 10,
+    "id": 17,
     "number-pages": 224,
     "name": "The Subtle Art of Not Giving a Fuck",
     "author": "Mark Manson",
@@ -160,7 +162,7 @@
     "download-link": "https://kupdf.net/download/the-subtle-art-of-not-giving-a-fuck_5aa1883fe2b6f5eb1b65a859_pdf"
   },
   {
-    "id": 11,
+    "id": 18,
     "number-pages": 245,
     "name": "4 states",
     "author": "chetan kashid",
@@ -170,7 +172,7 @@
     "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
   },
   {
-    "id": 13,
+    "id": 19,
     "number-pages": 224,
     "name": "The Monk Who Sold His Ferrari",
     "author": "Robin Sharma",
@@ -180,7 +182,27 @@
     "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
   },
   {
-    "id": 16,
+    "id": 20,
+    "number-pages": 376,
+    "name": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "publishing-year": "1999",
+    "publisher": "Simon & Schuster",
+    "shopping-link": "https://www.flipkart.com/it-ends-with-us/p/itm828ef1132dbdb?pid=RBKGBJUFVHWYGTK3&lid=LSTRBKGBJUFVHWYGTK3CNCPYD&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,",
+    "download-link": "https://ia804608.us.archive.org/23/items/juhy_20220104/It%20Ends%20with%20Us%20by%20Colleen%20Hoover%20%28z-lib.org%29.epub.pdf"
+  },
+  {
+    "id": 21,
+    "number-pages": 220,
+    "name": "rich dad poor dad",
+    "author": "Robert Kiyosaki",
+    "publishing-year": "2021",
+    "publisher": "Warner Books",
+    "shopping-link": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
+    "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+  },
+  {
+    "id": 22,
     "number-pages": 200,
     "name": "Who moved my cheeses",
     "author": "Where is my Cheese",
@@ -189,7 +211,7 @@
     "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
   },
   {
-    "id": 13,
+    "id": 23,
     "number-pages": 327,
     "name": "I am malala",
     "author": "Malala Yousafzai",
@@ -199,16 +221,7 @@
     "download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
   },
   {
-    "id": 16,
-    "number-pages": 200,
-    "name": "Who moved my cheeses",
-    "author": "Where is my Cheese",
-    "publishing-year": "2004",
-    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
-    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-  },
-  {
-    "id": 12,
+    "id": 24,
     "number-pages": 575,
     "name": "Bhagwat Geeta",
     "author": "prabhipada",
@@ -218,7 +231,17 @@
     "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
   },
   {
-    "id": 13,
+    "id": 25,
+    "number-pages": 646,
+    "name": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "publishing-year": "2016",
+    "publisher": "Atria Books",
+    "shopping-link": "https://www.amazon.in/s?k=it+ends+with+us+novel&hvadid=73117601034628&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_6jzircqp9p_b",
+    "download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
+  },
+  {
+    "id": 26,
     "number-pages": 265,
     "name": "Alchemist",
     "author": "Panlo coelho",
@@ -228,7 +251,7 @@
     "download-link": "https://www.gutenberg.org/ebooks/69065"
   },
   {
-    "id": 15,
+    "id": 27,
     "number-pages": 245,
     "name": "War and Peace",
     "author": "Leo Tolstoy",
@@ -237,7 +260,96 @@
     "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
     "download-link": "https://www.planetebook.com/war-and-peace/"
   },
-    {
+  {
+    "id": 28,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 29,
+    "number-pages": 384,
+    "name": "The love hypothesis",
+    "author": "Ali Hazelwood",
+    "publishing-year": "2021",
+    "shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
+    "download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+  },
+  {
+    "id": 30,
+    "number-pages": 228,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "publishing-year": "1996",
+    "publisher": "Harper Collins Publishers",
+    "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+    "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
+  },
+  {
+    "id": 31,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 32,
+    "number-pages": 312,
+    "name": "Do epic shit",
+    "author": "Warikoo Ankur",
+    "publishing-year": "2021",
+    "publisher": "Juggernaut ",
+    "shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
+    "download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+  },
+  {
+    "id": 33,
+    "number-pages": 300,
+    "name": "Wilder Girls",
+    "author": "Rory Power",
+    "publishing-year": "2019",
+    "publisher": "penguin",
+    "shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
+    "download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+  },
+  {
+    "id": 34,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 35,
+    "number-pages": 1055,
+    "name": "ramayan",
+    "author": "Valmiki",
+    "publishing-year": "1992",
+    "publisher": "geeta press",
+    "shopping-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1",
+    "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
+  },
+  {
+    "id": 36,
+    "number-pages": 265,
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "publishing-year": "1997",
+    "publisher": "Warner Books",
+    "shopping-link": "www.flipkart.com/rich-dad-poor/p/itmfeesg9hzqqetb",
+    "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+  },
+  {
     "id": 16,
     "name": "Wings of Fire",
     "number-pages": 180,
@@ -245,5 +357,5 @@
     "publishing-year": "1999",
     "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
     "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
-  },
+  }
 ]
