@@ -370,6 +370,54 @@
 		"download-link": "https://www.planetebook.com/ulysses/"
 	},
 	{
+		"id": 28,
+		"number-pages": 228,
+		"name": "The Monk Who Sold His Ferrari",
+		"author": "Robin Sharma",
+		"publishing-year": "1996",
+		"publisher": "Harper Collins Publishers",
+		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
+	},
+	{
+		"id": 29,
+		"number-pages": 384,
+		"name": "The love hypothesis",
+		"author": "Ali Hazelwood",
+		"publishing-year": "2021",
+		"shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
+		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+	},
+	{
+		"id": 30,
+		"number-pages": 312,
+		"name": "Do epic shit",
+		"author": "Warikoo Ankur",
+		"publishing-year": "2021",
+		"publisher": "Juggernaut ",
+		"shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
+		"download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+	},
+	{
+		"id": 31,
+		"number-pages": 300,
+		"name": "Wilder Girls",
+		"author": "Rory Power",
+		"publishing-year": "2019",
+		"publisher": "penguin",
+		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
+		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+	},
+	{
+		"id": 32,
+		"number-pages": 2789,
+		"name": "Living in the Light: A guide to transformation",
+		"author": "Gawain, Laurel King",
+		"publishing-year": "2001",
+		"publisher": "Nataraj hub., 1992",
+		"shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
+		"download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
+=======
     "id": 60,
     "number-pages": 965,
     "name": "Great Leaders: Inspirational Lessons in Leadership",
