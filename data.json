@@ -109,4 +109,14 @@
     "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/1442950277",
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
 },
+{
+	"id": 8,
+	"number-pages": 265,
+	"name": "Theory of Relativity",
+	"author": "Albert Einstein",
+	"publishing-year": "1944",
+	"publisher": "Lippin Company, 1909",
+	"shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+	"download-link": "https://www.gutenberg.org/ebooks/6906500"
+},
 ]
