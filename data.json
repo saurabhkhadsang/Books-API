@@ -89,4 +89,24 @@
 		"shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
 	}
+	{
+    "id": 6,
+    "number-pages": 265,
+    "name":"Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
+    "author": "Henry Cloud",
+    "publishing-year": "2001",
+    "publisher": "John Townsend",
+    "shopping-link": "https://www.amazon.in/Boundaries-Updated-Expanded-When-Control/dp/0310247454",
+    "download-link": "https://www.pdfdrive.com/boundaries-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-e60363043.html"
+},
+{
+    "id": 7,
+    "number-pages": 258,
+    "name":"Living in the Light: A guide to personal transformation",
+    "author": "	Shakti Gawain, Laurel King",
+    "publishing-year": "2011",
+    "publisher": "Nataraj Pub., 1992",
+    "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/1442950277",
+    "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
+},
 ]
