@@ -88,7 +88,7 @@
 		"publishing-year": "1988",
 		"shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
-	}
+	},
 	{
     "id": 6,
     "number-pages": 265,
@@ -98,8 +98,8 @@
     "publisher": "John Townsend",
     "shopping-link": "https://www.amazon.in/Boundaries-Updated-Expanded-When-Control/dp/0310247454",
     "download-link": "https://www.pdfdrive.com/boundaries-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-e60363043.html"
-},
-{
+  },
+  {
     "id": 7,
     "number-pages": 258,
     "name":"Living in the Light: A guide to personal transformation",
@@ -118,5 +118,36 @@
     "publisher": "Nataraj hub., 1992",
     "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
     "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
-},
+  },
+  
+  {
+    "id": 8,
+    "number-pages": 671,
+    "name":"Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publishing-year": "1866",
+    "publisher": "Penguin Classics",
+    "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
+    "download-link": "https://www.planetebook.com/crime-and-punishment/"
+  },
+  {
+	"id": 9,
+	"number-pages": 265,
+	"name": "Theory of Relativity",
+	"author": "Albert Einstein",
+	"publishing-year": "1944",
+	"publisher": "Lippin Company, 1909",
+	"shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+	"download-link": "https://www.gutenberg.org/ebooks/6906500"
+  },
+  {
+    "id":10,
+    "number-pages": 240,
+    "name":"2 states",
+    "author": "	chetan bhagat",
+    "publishing-year": "2009",
+    "publisher": "Rupa Pub.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+  }
 ]
